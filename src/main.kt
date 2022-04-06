@@ -30,7 +30,7 @@ fun robot(guest:Int){
     }else if(guest<15 && guest>6 ){
         println("fanta orange")
     }else{
-        println("cocacola")
+        println("Cocacola")
     }
 
 }
