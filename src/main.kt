@@ -28,7 +28,7 @@ fun robot(guest:Int){
     if(guest<6){
         println("milk")
     }else if(guest<15 && guest>6 ){
-        println("fanta orange")
+        println("Fanta orange")
     }else{
         println("Cocacola")
     }
